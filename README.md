@@ -3,6 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabel-alvaro-543b2a23a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 <hr>
+
 ![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelNtanda&show_icons=true&theme=radical)
 
 <div style='display:inline-block'><br>
