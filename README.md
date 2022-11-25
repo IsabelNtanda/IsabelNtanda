@@ -6,7 +6,7 @@
 
 ' A arte de programar consiste em organizar e dominar a complexidade.'
 
-## Tecnologias usadas no meu cotidiano
+## Tecnologias usadas no meu cotidiano:
 
 <div style='display:inline-block'><br>
 <img align='center' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='sem foto '/>
