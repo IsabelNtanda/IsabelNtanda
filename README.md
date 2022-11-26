@@ -18,7 +18,7 @@
   <img align='center' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='sem foto '/>
 </div>
 
-![Snake animation](https://github.com/IsabelNtanda/IsabelNtanda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PedroMakengo/PedroMakengo/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
