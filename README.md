@@ -22,6 +22,6 @@
 
 
 
-<hr>
+
 
 ## 'Você pode criar qualquer coisa,basta escrever.'
